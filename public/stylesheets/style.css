@@ -1,0 +1,16 @@
+
+.map {
+  background-color: orange;
+}
+
+nav {
+  background-color: green;
+}
+.box1 {
+  background-color: yellow;
+  float: right;
+}
+.box2{
+  background-color: red;
+  float: right;
+}
